@@ -1,8 +1,6 @@
-# Projetos de Data Science e Machine Learning
+# Projetos de Data Science
 
-Bem-vindo ao meu repositório de projetos de Data Science e Machine Learning. Aqui apresento soluções para diferentes problemas utilizando técnicas de aprendizado de máquina e análise de dados.
-
-Busco seguir as boas práticas da [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/) em meus códigos Python, garantindo qualidade e legibilidade.
+Bem-vindo ao meu repositório de projetos de Data Science. Aqui apresento soluções para diferentes problemas utilizando técnicas de aprendizado de máquina e análise de dados.
 
 ## Projetos
 1. [Identificação de Fraudes em Cartões de Crédito (Classificação)](classificacao-fraudes/identificando-fraudes-cartao.ipynb)
