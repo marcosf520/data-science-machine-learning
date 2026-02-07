@@ -13,6 +13,3 @@ Projeto focado em construir um modelo de classificação para detectar transaç�
 
 ### [2. Precificação de Imóveis (Regressão)](precificacao-casas/precificando-casas.ipynb)
 Através das features dos imóveis dados (área, qtde andares, etc) é construído um modelo de regressão capaz de determiar o preço ideal para futuros imóveis. São trabalhadas técnicas de transformação de variáveis assimétricas, padronização e análise gráfica de distribuição dos resíduos.
-
-
-https://github.com/marcosf520/data-science-machine-learning/blob/master/
