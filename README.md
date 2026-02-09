@@ -1,4 +1,4 @@
-[Português](README.pt.md) | English
+English | [Português](README.pt.md)
 
 # Data Science Projects
 
